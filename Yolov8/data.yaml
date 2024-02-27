@@ -1,0 +1,6 @@
+train:\Yolov8\train\ #usar rutas absolutas
+val: \Yolov8\valid\
+test: \Yolov8\test\
+
+nc: 1
+names: ['human arm']
